@@ -13,4 +13,4 @@ This program is designed to facilitate the use of wallet
 ### For python
     https://github.com/hei-school/cc-d1-my-wallet-jaonary-74/blob/feature/python/README.md
 
-## `**Bonne courage**`
+## `**Good luck!**`
