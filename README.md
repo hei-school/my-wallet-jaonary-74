@@ -7,10 +7,10 @@ This program is designed to facilitate the use of wallet
 
 ### For javaScript
 
-    https://github.com/hei-school/cc-d1-my-wallet-jaonary-74/blob/feature/javaScript/README.md
+    https://github.com/hei-school/my-wallet-jaonary-74/blob/feature/javascript/README.md
 
 
 ### For python
-    https://github.com/hei-school/cc-d1-my-wallet-jaonary-74/blob/feature/python/README.md
+    https://github.com/hei-school/my-wallet-jaonary-74/blob/feature/python/README.md
 
 ## `**Good luck!**`
